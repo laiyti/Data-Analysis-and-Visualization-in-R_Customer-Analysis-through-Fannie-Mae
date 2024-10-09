@@ -8,5 +8,3 @@ By the time the COVID-19 pandemic hit in 2019, Fannie Mae was in a stronger posi
 In this project, I will explore the changes that Fannie Mae implemented following the 2008 financial crisis to better prepare for the challenges of the COVID-19 pandemic. Using data visualization techniques, I will analyze key reforms and their impact on the institution’s financial health and resilience during the pandemic.
 
 For the complete report, please check [here](https://drive.google.com/file/d/1UEbXcJ4DlERAgiLtkVUH6C-e4mdvUhOP/view?usp=sharing)
- 
-## Data Understanding
